@@ -48,7 +48,7 @@ def arithmetic_arranger(math, solve = False):
         #determine the max length
         length = max(len(str(first_integer)), len(str(second_integer)))
 
-        #preparing the spacing for operator
+    
         space = " "
 
 
@@ -62,7 +62,6 @@ def arithmetic_arranger(math, solve = False):
 
 
     if solve:
-        #\n means new line
         first = list_arranger(first_line)
         second = list_arranger(second_line)
         third = list_arranger(line_bar)
