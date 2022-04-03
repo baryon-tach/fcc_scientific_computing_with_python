@@ -5,6 +5,6 @@ To keep things compact, the test-code was not included in the following. However
 
   arithmetic formatter: https://replit.com/@baryon-tach/boilerplate-arithmetic-formatter-2#main.py \  
   time calculator: https://replit.com/@baryon-tach/boilerplate-time-calculator#main.py \  
-  budget app: https://replit.com/@baryon-tach/boilerplate-budget-app#budget.py
-  polygon area calculator: https://replit.com/@baryon-tach/boilerplate-polygon-area-calculator#test_module.py
-  probability calculator: https://replit.com/@baryon-tach/boilerplate-probability-calculator-1#prob_calculator.py
+  budget app: https://replit.com/@baryon-tach/boilerplate-budget-app#budget.py \  
+  polygon area calculator: https://replit.com/@baryon-tach/boilerplate-polygon-area-calculator#test_module.py    
+  probability calculator: https://replit.com/@baryon-tach/boilerplate-probability-calculator-1#prob_calculator.py \  
