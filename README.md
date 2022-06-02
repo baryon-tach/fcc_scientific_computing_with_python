@@ -1,5 +1,6 @@
 # scientific_computing_with_python
-from freecodecamp: python projects
+freecodecamp projects:
+
 This is a compiled list of the code I created for the following projects under the "Scientific Computing with Python" course from freecodecamp.
 To keep things compact, the test-code was not included in the following. However, you can view the functioning code from the following links:
 
